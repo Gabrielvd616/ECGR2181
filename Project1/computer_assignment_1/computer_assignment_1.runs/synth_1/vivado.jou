@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Jan  2 17:58:00 2020
+# Process ID: 1268
+# Current directory: C:/Users/user/Desktop/workspaces/ECGR2181workspace/computer_assignment_1/computer_assignment_1.runs/synth_1
+# Command line: vivado.exe -log task1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source task1.tcl
+# Log file: C:/Users/user/Desktop/workspaces/ECGR2181workspace/computer_assignment_1/computer_assignment_1.runs/synth_1/task1.vds
+# Journal file: C:/Users/user/Desktop/workspaces/ECGR2181workspace/computer_assignment_1/computer_assignment_1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source task1.tcl -notrace
